@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https;//mishraspecific.github.io/react-test1/static/css/main.f0b101b3.chunk.css",
+    "main.js": "/https;//mishraspecific.github.io/react-test1/static/js/main.a524d1a5.chunk.js",
+    "main.js.map": "/https;//mishraspecific.github.io/react-test1/static/js/main.a524d1a5.chunk.js.map",
+    "runtime-main.js": "/https;//mishraspecific.github.io/react-test1/static/js/runtime-main.ac4c266f.js",
+    "runtime-main.js.map": "/https;//mishraspecific.github.io/react-test1/static/js/runtime-main.ac4c266f.js.map",
+    "static/js/2.b7f2e418.chunk.js": "/https;//mishraspecific.github.io/react-test1/static/js/2.b7f2e418.chunk.js",
+    "static/js/2.b7f2e418.chunk.js.map": "/https;//mishraspecific.github.io/react-test1/static/js/2.b7f2e418.chunk.js.map",
+    "static/js/3.e2f0cec9.chunk.js": "/https;//mishraspecific.github.io/react-test1/static/js/3.e2f0cec9.chunk.js",
+    "static/js/3.e2f0cec9.chunk.js.map": "/https;//mishraspecific.github.io/react-test1/static/js/3.e2f0cec9.chunk.js.map",
+    "index.html": "/https;//mishraspecific.github.io/react-test1/index.html",
+    "static/css/main.f0b101b3.chunk.css.map": "/https;//mishraspecific.github.io/react-test1/static/css/main.f0b101b3.chunk.css.map",
+    "static/js/2.b7f2e418.chunk.js.LICENSE.txt": "/https;//mishraspecific.github.io/react-test1/static/js/2.b7f2e418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4c266f.js",
+    "static/js/2.b7f2e418.chunk.js",
+    "static/css/main.f0b101b3.chunk.css",
+    "static/js/main.a524d1a5.chunk.js"
+  ]
+}
